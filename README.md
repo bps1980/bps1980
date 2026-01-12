@@ -72,7 +72,7 @@ Minimal Rust---
 ### **2. mini-execution-engine**  
 Minimal Rust execution engine execution engine for custom smart for custom smart‑contract primitives‑contract primitives. Deterministic state. Deterministic state, events, and mock, events, and mock ledger.  
 🔗 https ledger.  
-🔗 https://github.com/bps://github.com/bps1980/mini-execution-engine  
+🔗 https://github.com/bps1980/mini-execution-engine  
 - **contract1980/mini-execution-engine  
 - **contract runtime**  
 - **deterministic state runtime**  
