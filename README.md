@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Brennen Segura  
-###** (right after Finovia), because it’s the execution layer of your protocol story.
 
-```markdown
-# 👋 Hi, I'm Bren Systems Architect • Protocol Designer • Automation Engineer
+
+# A Systems Architect • Protocol Designer • Automation Engineer
 
 I design **modular systems**, **economic protocols**, and **automationnen Segura  
 ### Systems Architect • Protocol Designer • Automation Engineer
@@ -246,9 +245,9 @@ I help founders and teams with:
 - **internal tools & dashboards**  
 
 Reach out anytime:  
-📧 brennen@seg tools & dashboards**  
+📧 brennen@seguramgmt.com tools & dashboards**  
 
 Reach out anytime:  
 📧 brennen@seguramgmt.com  
-📞uramgmt.com  
+📞seguramgmt.com  
 📞 337-658-0254
