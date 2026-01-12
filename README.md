@@ -25,7 +25,7 @@ My work blends:
 
 ### **1. Finovia Protocol Notes**  
 Conceptual overview of minting, incentives, flows, and settlement.  
-🔗 https://github.com/YOUR_USERNAME/finovia-protocol-notes  
+🔗 https://github.com/bps1980/finovia-protocol-notes  
 - **[economic primitives](guide://action?prefill=Tell%20me%20more%20about%3A%20economic%20primitives)**  
 - **[value flows](guide://action?prefill=Tell%20me%20more%20about%3A%20value%20flows)**  
 - **[settlement architecture](guide://action?prefill=Tell%20me%20more%20about%3A%20settlement%20architecture)**  
@@ -34,7 +34,7 @@ Conceptual overview of minting, incentives, flows, and settlement.
 
 ### **2. POSOVIA UI Mock**  
 Operator‑first dashboard mock showing layout, components, and structure.  
-🔗 https://github.com/YOUR_USERNAME/posovia-ui-mock  
+🔗 https://github.com/bps1980/posovia-ui-mock  
 - **[dashboard design](guide://action?prefill=Tell%20me%20more%20about%3A%20dashboard%20design)**  
 - **[operator workflows](guide://action?prefill=Tell%20me%20more%20about%3A%20operator%20workflows)**  
 - **[UI architecture](guide://action?prefill=Tell%20me%20more%20about%3A%20UI%20architecture)**  
@@ -43,7 +43,7 @@ Operator‑first dashboard mock showing layout, components, and structure.
 
 ### **3. Modular API Router Tree**  
 Clean, scalable API routing structure with DTO‑driven contracts.  
-🔗 https://github.com/YOUR_USERNAME/modular-api-router-tree  
+🔗 https://github.com/bps1980/modular-api-router-tree  
 - **[modular routing](guide://action?prefill=Tell%20me%20more%20about%3A%20modular%20routing)**  
 - **[DTO patterns](guide://action?prefill=Tell%20me%20more%20about%3A%20DTO%20patterns)**  
 - **[backend clarity](guide://action?prefill=Tell%20me%20more%20about%3A%20backend%20clarity)**  
@@ -52,7 +52,7 @@ Clean, scalable API routing structure with DTO‑driven contracts.
 
 ### **4. SQLite Pipeline Template**  
 Lightweight pipeline engine with schema, processor, and state machine.  
-🔗 https://github.com/YOUR_USERNAME/sqlite-pipeline-template  
+🔗 https://github.com/bps1980/sqlite-pipeline-template  
 - **[state machines](guide://action?prefill=Tell%20me%20more%20about%3A%20state%20machines)**  
 - **[pipeline design](guide://action?prefill=Tell%20me%20more%20about%3A%20pipeline%20design)**  
 - **[internal tooling](guide://action?prefill=Tell%20me%20more%20about%3A%20internal%20tooling)**  
@@ -61,7 +61,7 @@ Lightweight pipeline engine with schema, processor, and state machine.
 
 ### **5. Celery Automation Boilerplate**  
 Distributed task execution with workers, routing, and Beat scheduling.  
-🔗 https://github.com/YOUR_USERNAME/celery-automation-boilerplate  
+🔗 https://github.com/bps1980/celery-automation-boilerplate  
 - **[task orchestration](guide://action?prefill=Tell%20me%20more%20about%3A%20task%20orchestration)**  
 - **[periodic scheduling](guide://action?prefill=Tell%20me%20more%20about%3A%20periodic%20scheduling)**  
 - **[automation pipelines](guide://action?prefill=Tell%20me%20more%20about%3A%20automation%20pipelines)**  
@@ -70,7 +70,7 @@ Distributed task execution with workers, routing, and Beat scheduling.
 
 ### **6. Selenium Anti‑Detection Starter**  
 Centralized driver setup, modular flows, and placeholder stealth config.  
-🔗 https://github.com/YOUR_USERNAME/selenium-anti-detection-starter  
+🔗 https://github.com/bps1980/selenium-anti-detection-starter  
 - **[browser automation](guide://action?prefill=Tell%20me%20more%20about%3A%20browser%20automation)**  
 - **[driver architecture](guide://action?prefill=Tell%20me%20more%20about%3A%20driver%20architecture)**  
 - **[flow modularity](guide://action?prefill=Tell%20me%20more%20about%3A%20flow%20modularity)**  
@@ -79,7 +79,7 @@ Centralized driver setup, modular flows, and placeholder stealth config.
 
 ### **7. LinkedIn Outreach OS (Public Demo)**  
 Safe, non‑functional structure of an outreach automation engine.  
-🔗 https://github.com/YOUR_USERNAME/linkedin-outreach-os  
+🔗 https://github.com/bps1980/linkedin-outreach-os  
 - **[automation design](guide://action?prefill=Tell%20me%20more%20about%3A%20automation%20design)**  
 - **[pipeline orchestration](guide://action?prefill=Tell%20me%20more%20about%3A%20pipeline%20orchestration)**  
 - **[system layout](guide://action?prefill=Tell%20me%20more%20about%3A%20system%20layout)**  
@@ -113,4 +113,5 @@ I help founders and teams with:
 - **internal tools & dashboards**  
 
 Reach out anytime:  
-📧 YOUR_EMAIL  
+📧 brennen@seguramgmt.com
+phone: 337-658-0254
