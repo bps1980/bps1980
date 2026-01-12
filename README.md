@@ -46,7 +46,22 @@ My work blends:
 
 ### ** pipelines & state machines**  
 
----
+### 🔗 Finovia Ecosystem (Public Components)
+
+Finovia is my private protocol‑level economic engine.  
+The public repos below demonstrate the surrounding architecture:
+
+- mini-execution-engine — deterministic state + events  
+- modular-api-router-tree — DTO-driven backend clarity  
+- sqlite-pipeline-template — state machines + pipelines  
+- celery-automation-boilerplate — distributed automation  
+- posovia-ui-mock — operator-first UI/UX  
+- selenium-anti-detection-starter — browser automation  
+
+Start here: https://github.com/bps1980/start-here
+
+Finovia itself remains private — only the conceptual overview is public.
+
 
 ## 📦 Featured Repositories
 
